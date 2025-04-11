@@ -2,6 +2,8 @@
 
 This simple web application built with Flask calculates the actual specimen size based on the microscope size (in millimetres) and the total magnification. The user can choose to enter the total magnification directly or provide the eyepiece and objective magnifications, which are multiplied together. The results are stored in a local SQLite database.
 
+You can check out the site at https://specimen-webapp.onrender.com
+
 ---
 
 ## 📁 Project Structure
